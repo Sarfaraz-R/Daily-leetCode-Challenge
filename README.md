@@ -54,6 +54,6 @@ Here is a running log of all the problems I have solved as part of my daily stre
 
 Feel free to connect with me! I'm always open to discussions, feedback, and collaboration.
 
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **GitHub:** [Your GitHub Profile URL]
+* **LinkedIn:** www.linkedin.com/in/sarfaraz-r
+* **GitHub:** https://github.com/Sarfaraz-R
 * **Portfolio:** 
