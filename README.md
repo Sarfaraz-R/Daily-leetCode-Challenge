@@ -39,7 +39,7 @@ Here is a running log of all the problems I have solved as part of my daily stre
 |:-----|:------------|:---------------------------------------------|:---------------------------------------------|:-----------|
 |1.    |1/09/2025    |maximumAveragePassRatio1792                   |                                              |🟡 Medium   |
 |2.    |2/09/2025    |findtheNumberofWaystoPlacePeopleI3025         |                                              |🟡 Medium   |
-
+|3.    |9/09/2025    |numberOfPeopleAwareOfTheSecret                |                                              |🟡 Medium   |
 
 ---
 
