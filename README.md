@@ -43,6 +43,7 @@ Here is a running log of all the problems I have solved as part of my daily stre
 |4.    |10/09/2025   |Minimum NumberofPeopletoTeach1733             |                                              |🟡 Medium   |
 |5.    |11/09/2025   |sortVowelsInAString2785                       |                                              |🟡 Medium   |
 |6.    |12/09/2025   |VowelsGameInAString                           |                                              |🟡 Medium   |
+|7.    |13/09/2025   |FindMostFrequentVowelandConsonant3541         |                                              |🟢 Easy     |
 
 ---
 
