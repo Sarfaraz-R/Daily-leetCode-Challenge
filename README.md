@@ -38,18 +38,19 @@ Additionally, each file contains a header comment with:
 
 Here is a running log of all the problems I have solved as part of my daily streak.
 
-| #   | Date Solved | Title                                    | Solution | Difficulty | Topic   |
-| :-- | :---------- | :--------------------------------------- | :------- | :--------- | ------- |
-| 1.  | 1/09/2025   | maximumAveragePassRatio1792              |          | 🟡 Medium  |         |
-| 2.  | 2/09/2025   | findtheNumberofWaystoPlacePeopleI3025    |          | 🟡 Medium  |         |
-| 3.  | 9/09/2025   | numberOfPeopleAwareOfTheSecret           |          | 🟡 Medium  |         |
-| 4.  | 10/09/2025  | Minimum NumberofPeopletoTeach1733        |          | 🟡 Medium  |         |
-| 5.  | 11/09/2025  | sortVowelsInAString2785                  |          | 🟡 Medium  |         |
-| 6.  | 12/09/2025  | VowelsGameInAString                      |          | 🟡 Medium  |         |
-| 7.  | 13/09/2025  | FindMostFrequentVowelandConsonant3541    |          | 🟢 Easy    |         |
-| 8.  | 14/09/2025  | VowelSpellChecker                        |          | 🟡 Medium  | Hashing |
-| 9.  | 15/09/2025  | maximum Number Of Words You Can Type1395 |          | 🟢 Easy    | Hashing |
-| 10. | 16/09/2025  | Replace Non-Coprime Numbers in Array2197 |          | 🔴 Hard    | Stack   |
+| #   | Date Solved | Title                                    | Solution | Difficulty | Topic                   |
+| :-- | :---------- | :--------------------------------------- | :------- | :--------- | ----------------------- |
+| 1.  | 1/09/2025   | maximumAveragePassRatio1792              |          | 🟡 Medium  |                         |
+| 2.  | 2/09/2025   | findtheNumberofWaystoPlacePeopleI3025    |          | 🟡 Medium  |                         |
+| 3.  | 9/09/2025   | numberOfPeopleAwareOfTheSecret           |          | 🟡 Medium  |                         |
+| 4.  | 10/09/2025  | Minimum NumberofPeopletoTeach1733        |          | 🟡 Medium  |                         |
+| 5.  | 11/09/2025  | sortVowelsInAString2785                  |          | 🟡 Medium  |                         |
+| 6.  | 12/09/2025  | VowelsGameInAString                      |          | 🟡 Medium  |                         |
+| 7.  | 13/09/2025  | FindMostFrequentVowelandConsonant3541    |          | 🟢 Easy    |                         |
+| 8.  | 14/09/2025  | VowelSpellChecker                        |          | 🟡 Medium  | Hashing                 |
+| 9.  | 15/09/2025  | maximum Number Of Words You Can Type1395 |          | 🟢 Easy    | Hashing                 |
+| 10. | 16/09/2025  | Replace Non-Coprime Numbers in Array2197 |          | 🔴 Hard    | Stack                   |
+| 11. | 17/07/2025  | Design a Food Rating System2353          |          | 🟡 Medium  | HashTable,PriorityQueue |
 
 (✅ I will keep updating this table daily as I solve new POTDs.)
 
