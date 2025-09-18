@@ -51,6 +51,7 @@ Here is a running log of all the problems I have solved as part of my daily stre
 | 9.  | 15/09/2025  | maximum Number Of Words You Can Type1395 |          | 🟢 Easy    | Hashing                 |
 | 10. | 16/09/2025  | Replace Non-Coprime Numbers in Array2197 |          | 🔴 Hard    | Stack                   |
 | 11. | 17/07/2025  | Design a Food Rating System2353          |          | 🟡 Medium  | HashTable,PriorityQueue |
+| 12. | 18/09/2025  | Design Task Manager3408                  |          | 🟡 Medium  | PriorityQueue           |
 
 (✅ I will keep updating this table daily as I solve new POTDs.)
 
