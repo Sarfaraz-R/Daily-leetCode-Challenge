@@ -53,6 +53,7 @@ Here is a running log of all the problems I have solved as part of my daily stre
 | 11. | 17/07/2025  | Design a Food Rating System2353          |          | 🟡 Medium  | HashTable,PriorityQueue |
 | 12. | 18/09/2025  | Design Task Manager3408                  |          | 🟡 Medium  | PriorityQueue           |
 | 13. | 19/09/2025  | Design SpreadSheet                       |          | 🟡 Medium  | Hashing                 |
+| 14. | 20/09/2025  | Implement Router                         |          | 🟡 Medium  | Queue,BinarySearch      |
 
 (✅ I will keep updating this table daily as I solve new POTDs.)
 
