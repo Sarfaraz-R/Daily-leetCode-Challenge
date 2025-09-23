@@ -56,6 +56,7 @@ Here is a running log of all the problems I have solved as part of my daily stre
 | 14. | 20/09/2025  | Implement Router 3508                    |          | 🟡 Medium  | Queue,BinarySearch          |
 | 15. | 21/09/2025  | Design Food Rating System1912            |          | 🔴 Hard    | Ordered Map, Priority Queue |
 | 16. | 22/09/2025  | Count the elements with max Frequency    |          | 🟢 Easy    | Hashing                     |
+| 14. | 23/09/2025  | Compare Version Numbers135               |          | 🟡 Medium  | Two Pointers                |
 
 (✅ I will keep updating this table daily as I solve new POTDs.)
 
