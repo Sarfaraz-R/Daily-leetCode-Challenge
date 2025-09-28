@@ -60,6 +60,8 @@ Here is a running log of all the problems I have solved as part of my daily stre
 | 18. | 24/09/2025  | fraction To Recurring Decimal166         |          | 🟡 Medium  | Hashing                     |
 | 19. | 25/09/2025  | Triangle 120                             |          | 🟡 Medium  | Dynamic Programming         |
 | 20. | 26/09/2025  | Valid Triangle Number 611                |          | 🟡 Medium  | Two Pointers                |
+| 21. | 27/09/2025  | Largest Triangle Area 812                |          | 🟢 Easy    | Three Pointers              |
+| 22. | 28/09/2025  | Largest Perimeter Triangle 976           |          | 🟢 Easy    | Greedy                      |
 
 (✅ I will keep updating this table daily as I solve new POTDs.)
 
