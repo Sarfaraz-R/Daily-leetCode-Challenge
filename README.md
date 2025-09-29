@@ -62,6 +62,7 @@ Here is a running log of all the problems I have solved as part of my daily stre
 | 20. | 26/09/2025  | Valid Triangle Number 611                |          | 🟡 Medium  | Two Pointers                |
 | 21. | 27/09/2025  | Largest Triangle Area 812                |          | 🟢 Easy    | Three Pointers              |
 | 22. | 28/09/2025  | Largest Perimeter Triangle 976           |          | 🟢 Easy    | Greedy                      |
+| 23. | 29/09/2025  | minimum Score Tiangulation 1039          |          | 🔴 Hard    | Dynamic Programming         |
 
 (✅ I will keep updating this table daily as I solve new POTDs.)
 
