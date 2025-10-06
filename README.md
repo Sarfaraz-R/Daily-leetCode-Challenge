@@ -64,6 +64,11 @@ Here is a running log of all the problems I have solved as part of my daily stre
 | 22. | 28/09/2025  | Largest Perimeter Triangle 976           |          | 🟢 Easy    | Greedy                      |
 | 23. | 29/09/2025  | minimum Score Tiangulation 1039          |          | 🔴 Hard    | Dynamic Programming         |
 | 24. | 30/09/2025  | Find Triangular Sum Of Any Array 2221    |          | 🟡 Medium  | Array ,Math , Queue         |
+| 17. | 1/10/25     | Water Bottles1518                        |          | 🟢 Easy    | Array,Math                  |
+| 18. | 2/10/25     | Water BottlesII3100                      |          | 🟡 Medium  | Array,Math                  |
+| 19. | 3/10/25     | Trapping Rain Water II407                |          | 🔴 Hard    | BFS,PriorityQueue           |
+| 30. | 4/10/25     | Container With Most Water11              |          | 🟡 Medium  | Two Pointers                |
+| 31. | 5/10/25     | Pacific Atlantic Water Flow417           |          | 🟡 Medium  | BFS , DFS                   |
 
 (✅ I will keep updating this table daily as I solve new POTDs.)
 
