@@ -69,6 +69,7 @@ Here is a running log of all the problems I have solved as part of my daily stre
 | 19. | 3/10/25     | Trapping Rain Water II407                |          | 🔴 Hard    | BFS,PriorityQueue           |
 | 30. | 4/10/25     | Container With Most Water11              |          | 🟡 Medium  | Two Pointers                |
 | 31. | 5/10/25     | Pacific Atlantic Water Flow417           |          | 🟡 Medium  | BFS , DFS                   |
+| 32. | 09/12/25    | count Special Triplets                   |          | 🟡 Medium  | Hashing                     |
 
 (✅ I will keep updating this table daily as I solve new POTDs.)
 
