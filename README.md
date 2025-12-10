@@ -70,6 +70,7 @@ Here is a running log of all the problems I have solved as part of my daily stre
 | 30. | 4/10/25     | Container With Most Water11              |          | 🟡 Medium  | Two Pointers                |
 | 31. | 5/10/25     | Pacific Atlantic Water Flow417           |          | 🟡 Medium  | BFS , DFS                   |
 | 32. | 09/12/25    | count Special Triplets                   |          | 🟡 Medium  | Hashing                     |
+| 33. | 10/12/25    | computerUnlockingPermutations3577        |          | 🟡 Medium  | Permutations                |
 
 (✅ I will keep updating this table daily as I solve new POTDs.)
 
